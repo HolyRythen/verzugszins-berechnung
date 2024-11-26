@@ -11,7 +11,7 @@ Ein einfacher Webanwendung, die Verzugszinsen für verspätete Mietzahlungen ber
 ## Installation
 1. Klone das Repository:
    ```bash
-   git clone https://github.com/dein-benutzername/verzugszins-rechner.git
+   git clone https://github.com/HolyRythen/verzugszins-berechnung.git
    ```
 2. Öffne die Datei `index.html` in deinem bevorzugten Browser.
 
