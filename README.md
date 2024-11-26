@@ -1,6 +1,4 @@
-Hier ist die `README.md`-Datei für dein GitHub-Projekt:
 
-```markdown
 # Verzugszins-Rechner
 
 Ein einfacher Webanwendung, die Verzugszinsen für verspätete Mietzahlungen berechnet. Die Anwendung richtet sich an Privatpersonen und basiert auf dem aktuellen Basiszinssatz in Deutschland.
