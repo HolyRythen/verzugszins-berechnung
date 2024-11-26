@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verzugszins Rechner Mietpreise</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Verzugszins-Rechner</h1>
+        <form id="zinsForm">
+            <label for="miete">Mietbetrag (€):</label>
+            <input type="number" id="miete" required>
+
+            <label for="fälligkeitsdatum">Fälligkeitsdatum:</label>
+            <input type="date" id="fälligkeitsdatum" required>
+
+            <label for="zahlungsdatum">Zahlungsdatum:</label>
+            <input type="date" id="zahlungsdatum" required>
+
+            <button type="submit">Berechnen</button>
+        </form>
+        <div id="ergebnis"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
